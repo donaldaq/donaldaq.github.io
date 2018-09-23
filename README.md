@@ -1,12 +1,6 @@
-# Leap Day
+# donaldaq's blog for ML
 
 Open source content for Leap Day theme. Theme was first designed / developed for GitHub Pages and is availalbe for download, forking and using anywhere else on the web.
-
-![Leap Day](http://cl.ly/image/2Z1Z1e2q2I1C/image)
-
-**Note** If you are an original Leap Day user (pre August 2014) the [1.0 tag](https://github.com/mattgraham/leapday/releases/tag/1.0) is what you are on.
-
-The Leap Day Pages demo is [here](http://mattgraham.github.com/leapday)
 
 
 ### Developing Locally
