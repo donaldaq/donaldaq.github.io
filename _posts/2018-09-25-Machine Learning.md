@@ -21,13 +21,13 @@ comments: true
 
 > 인간의 사고 능력을 모방하여 적용하는 이론
 
-##솔베이 학회 사진
+## 솔베이 학회 사진
 ![file 21-09-2016 1 00 54 pm](https://user-images.githubusercontent.com/26396102/46000665-2de72680-c0e4-11e8-8c0f-86945855df21.jpeg)
 
 ## Code Snippets
 
 {% highlight css %}
-#def variable_summaries(var):
+def variable_summaries(var):
     """텐서에 많은 양의 요약정보(summaries)를 붙인다. (텐서보드 시각화를 위해서)"""
     with tf.name_scope('summaries'):
       mean = tf.reduce_mean(var)
