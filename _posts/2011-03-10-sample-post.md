@@ -5,7 +5,7 @@ excerpt: "Test"
 categories: [hello world]
 comments: true
 image:
-  feature: ![avatar]/img/leonids-logo.jpg
+  feature: ![avatar]/img/avatar.jpg
   credit: Lucy
   creditlink:
 ---
