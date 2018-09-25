@@ -1,5 +1,6 @@
 # Update 07/09/2018
 
+<<<<<<< HEAD
 I'm planning to refactor Leonids theme!!!
 
 The goal is really simple: make documentation more intuitive and deployment simpler!!!
@@ -66,6 +67,8 @@ Leonids features a simple resume page. It is divided up into five sections:
 You can put all your info into these files, and they will be featured on the resume page.
 
 ## TODO
+=======
+>>>>>>> c9cde6b92515ed24ec847e2138d76e12390f2ac4
 
 - [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
 - [ ] Multi languages support.
