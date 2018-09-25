@@ -5,7 +5,7 @@ excerpt: "Test"
 categories: [hello world]
 comments: true
 image:
-  feature: donaldaq.github.io/img/leonids-logo.jpg
+  feature: /img/leonids-logo.jpg
   credit: Lucy
   creditlink:
 ---
