@@ -2,7 +2,7 @@
 layout: post
 title: Sample Post
 excerpt: "Test"
-categories: [hello world]
+categories: [Test]
 comments: true
 image:
   feature: ![avatar]./img/avatar.jpg
