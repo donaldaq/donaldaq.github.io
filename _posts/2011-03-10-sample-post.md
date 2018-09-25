@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Sample Post
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Test"
 categories: [hello world]
 comments: true
 image:
   feature: https://github.com/donaldaq/donaldaq.github.io/blob/master/img/leonids-logo.jpg
   credit: Lucy
-  creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
+  creditlink:
 ---
 
 ## HTML Elements
