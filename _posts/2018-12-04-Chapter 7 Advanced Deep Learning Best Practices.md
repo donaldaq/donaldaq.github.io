@@ -41,6 +41,7 @@ comments: true
 2. 일반적으로 EarlyStopping 콜백은 훈련하는 동안 모델을 계속 저장해주는 ModelCheckpoint와 함께 사용
 
 '''python
+
 import keras
 
  callbacks_list = [
@@ -63,6 +64,7 @@ model.fit(x, y,  # 콜백이 검증 손실과 검증 정확도를 모니터링�
   batch_size=32,
   callbacks=callbacks_list,
   validation_data=(x_val, y_val))
+  
 '''
 
 ### ReduceLROnPlateau 콜백
