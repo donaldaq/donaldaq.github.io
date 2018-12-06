@@ -217,6 +217,7 @@ plot_model(model, to_file='model.png')
  3. 간단한 랜덤 탐색(random search)
 
 [Link-Hyperopt](https://github.com/hyperopt/hyperopt)
+
 [Link-Hyperas](https://github.com/maxpumperla/hyperas)
 
 ### 모델 앙상블
