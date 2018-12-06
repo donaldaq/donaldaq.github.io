@@ -22,7 +22,7 @@ comments: true
 
 ### 기본적인 코드(Conv2D, MaxPolling2D)
 
-'''python
+```python
 from keras import layers
 from keras import models
 model = models.Sequential()
@@ -31,7 +31,7 @@ model.add(layers.MaxPooling2D((2, 2)))
 model.add(layers.Conv2D(64, (3, 3), activation='relu'))
 model.add(layers.MaxPooling2D((2, 2)))
 model.add(layers.Conv2D(64, (3, 3), activation='relu'))
-'''
+```
 
 - 컨브넷 구조 출력
 ![conv_summary](https://user-images.githubusercontent.com/26396102/48903897-1cca5400-eea0-11e8-89a3-9c0722b46a6f.PNG)
@@ -186,7 +186,7 @@ jpg파일을 네트워크로 넣을 때 과정
 - 남은 데이터에서 훈련하고 검증 세트로 평가
 ![simple holdout](https://user-images.githubusercontent.com/26396102/48557545-6a880f00-e92a-11e8-9ca6-7ff835c278fd.PNG)
 
-'''python
+```python
 num_validation_samples = 10000
 np.random.shuffle(data) #데이터를 섞는 것(셔플링)이 일반적으로 좋음
 validation_data = data[:num_validation_samples] #검증 세트 만듦
@@ -195,7 +195,7 @@ training_data = data[:] #훈련 세트 만듦
 model = get_model() # 훈련세트에서 모델을 훈련하고 검증 세트로 평가 
 model.train(training_data)
 validation_score = model.evaluate(validation_data)
-'''
+```
 - 단순 홀드아웃 검증은 한가지 단점
  1. 데이터가 적은 경우 검증 세트와 테스트 세트의 샘플이 너무 적어 주어진 전체 데이터를 통계적으로 대표하기 힘듬
  2. 셔플링한 후 모델의 성능이 매우 달라지면 이와 같은 문제 때문이다.
@@ -205,7 +205,7 @@ validation_score = model.evaluate(validation_data)
 각 분할 i에 대해 남은 K-1개의 분할로 모델을 분할 i에서 모델을 평가, 최종 점수는 이 방식으로 얻은 K개의 점수를 평균.
 ![k-fold](https://user-images.githubusercontent.com/26396102/48558221-2564dc80-e92c-11e8-9110-73adacf514e1.PNG)
 
-'''python
+```python
 k = 4
 num_validation_samples = len(data) // k
 
@@ -230,7 +230,7 @@ validation_score = np.average(validation_scores) #검증 점수: K개 폴드의 
 model = get_model() # 테스트 데이터를 제외한 전체 데이터로 최종 모델을 훈련
 model.train(data)
 test_score = model.evaluate(test_data)
-'''
+```
 #### 셔플링을 사용한 반복 K-겹 교차 검증
 - 비교적 가용 데이터가 적고 가능한 정확하게 모델을 평가하고자 할 때 사용
 - 캐글 경연에서 효과적임
