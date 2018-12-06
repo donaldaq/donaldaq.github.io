@@ -32,8 +32,11 @@ comments: true
 
 **콜백함수 예**
 > keras.callbacks.ModelCheckpoint
+> 
 > keras.callbacks.EarlyStopping
+> 
 > keras.callbacks.LearningRateScheduler
+> 
 > keras.callbacks.CSVLogger
 
 ### ModelCheckPoint와 EarlyStopping 콜백
