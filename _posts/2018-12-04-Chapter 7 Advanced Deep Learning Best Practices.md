@@ -40,7 +40,7 @@ comments: true
 1. EarlyStopping 콜백: 정해진 에포크 동안 모니터링 지표가 향상되지 않을 때 훈련을 중지할 수 있음
 2. 일반적으로 EarlyStopping 콜백은 훈련하는 동안 모델을 계속 저장해주는 ModelCheckpoint와 함께 사용
 
-'''python
+```python
 
 import keras
 
@@ -65,12 +65,12 @@ model.fit(x, y,  # 콜백이 검증 손실과 검증 정확도를 모니터링�
   callbacks=callbacks_list,
   validation_data=(x_val, y_val))
   
-'''
+```
 
 ### ReduceLROnPlateau 콜백
 ReduceLROnPlateau 콜백: 검증 손실이 향상되지 않을 때 학습률을 작게 할 수 있음
 
-'''python
+```python
 callbacks_list = [
   keras.callbacks.ReduceLROnPlateau(
    monitor='val_loss' #모델의 검증 손실을 모니터링
@@ -85,7 +85,7 @@ model.fit(x, y,
    callbacks=callbacks_list,
    validation_data=(x_val, y_val))
 
-'''
+```
  
 
 ### 자신만의 콜백 만들기
@@ -115,7 +115,7 @@ model.fit(x, y,
  - 활성화 출력과 그래디언트의 히스토그램을 그립니다. 
  - 3D로 임베딩 표현합니다. 
 
-'''python
+```python
 callbacks = [
    keras.callbacks.TensorBoard(
    log_dir='my_log_dir', # 로그 파일이 기록될 위치
@@ -128,7 +128,7 @@ history = model.fit(x_train, y_train,
    batch_size=128,
    validation_split=0.2,
    callbacks=callbacks)
-'''
+```
 
 **측정 지표 모니터링 히스토그램**
 
@@ -146,11 +146,11 @@ history = model.fit(x_train, y_train,
 
 ![tensorflow graph](https://user-images.githubusercontent.com/26396102/49583869-c92a3100-f99c-11e8-9f02-a86f7ef38c30.PNG)
 
-'''python
+```python
 from keras.utils import plot_model
 
 plot_model(model, to_file='model.png')
-'''
+```
 그래프를 이미지로 저장할 수도 있다. 
 
 **크기 정보가 포함된 모델 그래프**
@@ -220,13 +220,13 @@ plot_model(model, to_file='model.png')
 **모델 앙상블(model ensemble)** 가장 좋은 결과를 얻을 수 있는 또 다른 강력한 기법
 앙상블은 여러 개 다른 모델의 예측을 합쳐서 더 좋은 예측을 만듦
 
-'''python
+```python
  preds_a = model_a.predict(x_val)
  preds_b = model_b.predict(x_val)
  preds_c = model_c.predict(x_val)
  preds_d = model_d.predict(x_val)
  final_preds = 0.5 * preds_a + 0.25 * preds_b + 0.1 * preds_c + 0.15 * preds_d # 각 모델의 가중치를 부여
-''' 
+``` 
 
 앙상블의 핵심은 앙상블의 후보 모델이 얼마나 다양한지가 중요!!
 예) 트리 기반 모델(랜덤 포레스트, 그래디언트 부스팅 트리), 심층 신경망 - 앙상블
