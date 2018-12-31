@@ -54,7 +54,7 @@ comments: true
 ### 3. 파이썬 코드
 
 ```python
-def Quick_sort(ARRAY):
+def Quicksort(ARRAY):
     ARRAY_LENGTH = len(ARRAY)
     if( ARRAY_LENGTH <= 1):
         return ARRAY
