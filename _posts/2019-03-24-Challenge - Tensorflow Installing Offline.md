@@ -15,18 +15,23 @@ comments: true
 
 ### 오프라인 패키지(라이브러리) 설치 및 검색 사이트 
 
-	- www.pypi.org 
+- www.pypi.org 
 
 ### 설치 명령어 
 
-	- 폴더(압축파일) 경우 : python setup.py install
-	- whl파일 경우: pip install 파일명.whl
-	
-	유의사항
-	예) Pillow-5.4.1-cp35-cp35m-win_amd64.whl
-	   - 중간 부분: cp35-cp35m 은 파이썬 버전을 의미한다 파이썬 3.5버전을 설치했으므로 cp35가 설치되야 정상 동작한다.
-	     **꼭 맞춰주어야 한다**
-	   - 마지막: win_amd64는 운영체제를 의미한다. 예) 운영체제: 윈도우 64비트
+ - 폴더(압축파일) 경우 : python setup.py install
+
+ - whl파일 경우: pip install 파일명.whl
+
+   
+
+   유의사항
+
+   예) Pillow-5.4.1-cp35-cp35m-win_amd64.whl
+
+   - 중간 부분: cp35-cp35m 은 파이썬 버전을 의미한다 파이썬 3.5버전을 설치했으므로 cp35가 설치되야 정상 동작한다.
+     **꼭 맞춰주어야 한다**
+   - 마지막: win_amd64는 운영체제를 의미한다. 예) 운영체제: 윈도우 64비트
 
 5. 패키지 순서: 패키지마다 **dependency**가 있기 때문에 순서를 지켜야 tensorflow까지 설치가 된다. 
    꼭 순서가 맞는 것은 아니지만 이 순서대로 하면 설치가 끊김없이 진행된다.
