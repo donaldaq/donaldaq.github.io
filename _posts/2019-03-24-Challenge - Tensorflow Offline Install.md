@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tensorflow Installing Offline
+title: Tensorflow Offline Install
 excerpt: "Machine Learning"
 categories: [Machine Learning]
 comments: true
