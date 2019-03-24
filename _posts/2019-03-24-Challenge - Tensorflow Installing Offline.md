@@ -10,7 +10,7 @@ comments: true
 
 1. 먼저 Python 3.5.1을 설치한다.
 2. 시스템 환경변수 추가한다. 
-3. vc_redist.x64 파일도 설치한다. [링크]([https://www.microsoft.com/ko-kr/download/details.aspx?id=48145)
+3. vc_redist.x64 파일도 설치한다. [링크](https://www.microsoft.com/ko-kr/download/details.aspx?id=48145)
 4. pip-19.0.3(폴더) 설치하여 pip 최신버전로 업그레이드 하여 사용 가능하도록 한다. [링크](https://pypi.org/project/pip/#files)  압축파일 다운받고 설치하면 된다.
 
 ### 오프라인 패키지(라이브러리) 설치 및 검색 사이트 
