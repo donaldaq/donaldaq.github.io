@@ -6,7 +6,7 @@ categories: [Machine Learning]
 comments: true
 ---
 
-## Tensorflow 및 keras Offline 설치 순서
+## Tensorflow 및 Keras Offline 설치 순서
 
 1. 먼저 Python 3.5.1을 설치한다.
 2. 시스템 환경변수 추가한다. 
@@ -30,10 +30,10 @@ comments: true
    예) Pillow-5.4.1-cp35-cp35m-win_amd64.whl
 
    - 중간 부분: cp35-cp35m 은 파이썬 버전을 의미한다 파이썬 3.5버전을 설치했으므로 cp35가 설치되야 정상 동작한다.
-     **꼭 맞춰주어야 한다**
+     **꼭 맞춰주어야 한다** [버전 확인 링크](https://stackoverflow.com/questions/50248524/module-pip-has-no-attribute-pep425tags)
    - 마지막: win_amd64는 운영체제를 의미한다. 예) 운영체제: 윈도우 64비트
 
-5. 패키지 순서: 패키지마다 **dependency**가 있기 때문에 순서를 지켜야 tensorflow까지 설치가 된다. 
+5. 패키지 순서: 패키지마다 **dependency**가 있기 때문에 순서를 지켜야 Tensorflow까지 설치가 된다. 
    꼭 순서가 맞는 것은 아니지만 이 순서대로 하면 설치가 끊김없이 진행된다.
 
  - soupsieve-1.8-py2.py3-none-any.whl 
