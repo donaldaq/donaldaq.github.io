@@ -4,6 +4,7 @@ title: formula test
 excerpt: "test"
 categories: [test]
 comments: true
+use_math: true
 ---
 
 

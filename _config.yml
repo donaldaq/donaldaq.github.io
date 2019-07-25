@@ -17,7 +17,9 @@ keywords: ["blog", "jekyll", "Machine Learning"]
 timezone:          Asia/Korea
 markdown:          kramdown
 highlighter:       rouge
+lsi: false
 excerpt_separator: <!--more-->
+incremental: false
 permalink:         /articles/:year-:month/:title
 
 kramdown:
