@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Normalization, Standardization, Regularization
+title: Confused concepts for Deep Learning
 excerpt: "Deep Learning"
 categories: [Deep Learning]
 comments: true
