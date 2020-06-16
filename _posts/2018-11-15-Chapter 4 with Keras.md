@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fundamentals of Machine Learning
+title: Chapter 4 Fundamentals of Machine Learning
 excerpt: "Part 1 Fundamentals of Deep Learning"
 categories: [Deep Learning with Keras]
 comments: true
@@ -8,7 +8,7 @@ comments: true
 
 # 4장 머신러닝의 기본 요소
 케라스 창시자에게 배우는 딥러닝 Chapter4를 정리하였습니다.  
- 
+
 
 ## 목차
 1. 머신 러닝의 네 가지 분류
