@@ -1,6 +1,7 @@
 - name: Image Classification
+	- test
   descr: "I Worked image classification for medical domain"
-- name: Image Classification
+- name: Image Object Detection
   descr: "I Worked image classification for medical domain"
   image: pong.png
   github: https://github.com/donaldaq
