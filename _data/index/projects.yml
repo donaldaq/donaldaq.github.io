@@ -1,6 +1,6 @@
 - name: Image Classification
-  descr: "I Worked image classification for medical domain"
-  "I Worked image classification for medical domain22"
+  descr:| 
+     - "I Worked image classification for medical domain"
 - name: Image Object Detection
   descr: "I Worked image classification for medical domain"
   image: pong.png
