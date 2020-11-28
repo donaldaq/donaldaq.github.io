@@ -1,4 +1,5 @@
 - name: donaldaq
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, \n chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, \n
+   \n  chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
   image: pong.png
   github: https://github.com/donaldaq
