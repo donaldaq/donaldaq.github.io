@@ -1,5 +1,5 @@
 - name: (hallym AI center) Image Classification For 2D, 3D [2020. 2. ~ 2020. 10]
-  descr: "Image classification for CIN Pathology, Colon Cancer Pathology, END Classification, Submucosal invasion [Library: PyTorch]"
+  descr: "Image classification for CIN Pathology, Colon Cancer Pathology, END Classification, Submucosal invasion <br>[Library: PyTorch]"
 
 - name: (hallym AI center) Image Object Detection [2019.12 ~ 2020. 2]
   descr: "Image object detection for Renal Cyst Detection(CT), EYELID mass object detection [Library: Tensorflow, Keras, PyTorch]"
