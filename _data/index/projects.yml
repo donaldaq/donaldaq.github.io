@@ -1,28 +1,32 @@
-- name: (hallym AI center) <br> Image Classification For 2D, 3D <br> [2020. 2. ~ 2020. 10]
+- name: (hallym AI center) <br> 
+  content: Image Classification For 2D, 3D <br> [2020. 2. ~ 2020. 10]
   descr: "Image classification for CIN Pathology, Colon Cancer Pathology, END Classification, Submucosal invasion <br> [Library: PyTorch]"
 
-- name: Image Object Detection <br> [2019.12 ~ 2020. 2]
+- content: Image Object Detection <br> [2019.12 ~ 2020. 2]
   descr: "Image object detection for Renal Cyst Detection(CT), EYELID mass object detection <br> [Library: Tensorflow, Keras, PyTorch] <br><br>"
   
-- name: (DoAI) <br> Image Object Detection <br> [2019. 6 ~ 2020. 12] 
+- name: (DoAI) <br> 
+  content: Image Object Detection <br> [2019. 6 ~ 2020. 12] 
   descr: "Image object detection for Pap smear Cytology slide images detection <br> [Library: Tensorflow, Keras]"
   
-- name: Trisomy Numerical Data Detection Using Machine Learning <br> [2019.7 ~ 2019.12]  
+- content: Trisomy Numerical Data Detection Using Machine Learning <br> [2019.7 ~ 2019.12]  
   descr: "trisomy numerical data detection Using Machine learning algorithm <br> [Langauge: Python] <br><br>"
 
-- name: (DB FIS) <br> Maintenance and Development for Electric Documentation Management System(Web) <br> [2018.5 ~ 2019. 4]  
+- name: (DB FIS) <br> 
+  content: Maintenance and Development for Electric Documentation Management System(Web) <br> [2018.5 ~ 2019. 4]  
   descr: "Maintenance and Development for web <br> [Frotend: javascript, Backend: java, Database: SQL for oracle]"
   
-- name: Car dashboard within 18 car models Image classification <br> [2018.6 ~ 2018. 12]  
+- content: Car dashboard within 18 car models Image classification <br> [2018.6 ~ 2018. 12]  
   descr: "Car dashboard within 18 car models Image classification is only handling for me <br> [Library: Tensorflow] <br><br>"  
 
-- name: (REALTIMEVISUAL) <br> Point to Point Wireless Network Various Models Modeling Development <br> [2016.12 ~ 2017.07]  
+- name: (REALTIMEVISUAL) <br> 
+  content: Point to Point Wireless Network Various Models Modeling Development <br> [2016.12 ~ 2017.07]  
   descr: "Point to Point Wireless Network Various Models(Diffraction, Forest, Space) Modeling Development <br> [Langauge: Java]"
 
-- name: Point to Point Wireless Network Various Models Modeling Development <br> [2016.12 ~ 2017.07]  
+- content: Point to Point Wireless Network Various Models Modeling Development <br> [2016.12 ~ 2017.07]  
   descr: "Point to Point Wireless Network Various Models(Diffraction, Forest, Space) Modeling Development <br> [Langauge: Java]"
 
-- name: Maintenance, Development and Testing for Tank Modeling in Simulation Environment <br> [2015.03 ~ 2016.11]  
+- content: Maintenance, Development and Testing for Tank Modeling in Simulation Environment <br> [2015.03 ~ 2016.11]  
   descr: "Maintenance, Development and Testing for Tank Modeling in Simulation Environment <br> [Langauge: C++, Modeling Algorithm: NEAT Algorithm, Testing: Static Testing, Dynamic Algorithm] <br><br>"  
   
   image: pong.png
