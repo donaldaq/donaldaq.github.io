@@ -75,5 +75,5 @@ This project is ongoing to publish medical journal paper.
 
 - Inception-ResNet-V2
 
-![Screenshot from 2020-11-30 10-36-19](/home/mlm08/Pictures/Screenshot from 2020-11-30 10-36-19.png)
+![Screenshot from 2020-11-30 10-36-19](https://user-images.githubusercontent.com/26396102/101725670-683a1400-3af4-11eb-8c81-13412f6cd002.png)
 
