@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021년 1월 8일 Stock Report
+title: 2021년 1월 9일 Stock Report
 excerpt: "Stock_Analysis"
 categories: [Stock_Analysis]
 comments: true
@@ -10,7 +10,7 @@ comments: true
 
 
 
-## 2021년 1월 8일 Stock Report
+## 2021년 1월 9일 Stock Report
 
 
 
