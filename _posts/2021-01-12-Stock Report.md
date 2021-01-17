@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2021년 1월 12일 Stock Report
-excerpt: "Stock_Analysis"
+excerpt: "Cooperation Apple and Hyundai"
 categories: [Stock_Analysis]
 comments: true
 

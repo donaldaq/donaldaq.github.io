@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2021년 1월 9일 Stock Report
-excerpt: "Stock_Analysis"
+excerpt: "Related second battery"
 categories: [Stock_Analysis]
 comments: true
 
