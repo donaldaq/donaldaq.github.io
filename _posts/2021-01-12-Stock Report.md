@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021년 1월 1주차 Storck Report
+title: 2021년 1월 12일 Stock Report
 excerpt: "Stock_Analysis"
 categories: [Stock_Analysis]
 comments: true
