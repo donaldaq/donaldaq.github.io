@@ -99,5 +99,5 @@ Apple은 자율주행 차량을 개발하는 프로젝트에 TESLA 출신 인력
   - Apple도 안정성이 특히나 중요한 자동차 시장에 새롭게 진출하는 만큼 Hardware부분에서 성능과 내구성이 검증된 제품을 선택할 가능성이 크다
   - TESLA는 초기 아웃 소싱했던 부품들도 향후에는 중요 부품이라고 판단되는 경우 내재화 하는 전략을 보여주었다.
  
-<img width="729" alt="Image" src="https://github.com/user-attachments/assets/27e6dc00-68bd-4ff5-8a22-37766136655c" />
+
 ![Image](https://github.com/user-attachments/assets/1dfdc782-7fb4-464f-a4a2-185db9bb30eb)
