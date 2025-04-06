@@ -1,15 +1,15 @@
 - name: (Witi) <br> 
   content: Research and Development of the KNOWHOW Service Platform <br> [2024. 1. ~ 2025. 1]
-  descr: "KNOWHOW Service Platform – A Community for Startup CEOs<br> [Language: Nest.js, Nuxt.js] <br><br>"
+  descr: "KNOWHOW Service Platform – A Community for Startup CEOs<br> [Language: Nest.js, Nuxt.js]"
 
 - content: Research and Development of the KNOWHOW Space Web Service <br> [2024. 1. ~ 2025. 1]
-  descr: "KNOWHOW Space Web Service – Startup Performance Management System<br> [Language: Nest.js, Nuxt.js] <br><br>"
+  descr: "KNOWHOW Space Web Service – Startup Performance Management System<br> [Language: Nest.js, Nuxt.js]"
 
 - content: Research and Development of the CEO Staff Web Service <br> [2024. 1. ~ 2025. 1]
-  descr: "CEO Staff Web Service – A Web Platform for Recommending Customized Support Programs for Startups<br> [Language: Nest.js, Nuxt.js] <br><br>"
+  descr: "CEO Staff Web Service – A Web Platform for Recommending Customized Support Programs for Startups<br> [Language: Nest.js, Nuxt.js]"
 
 - content: Development of a Company Data Profiling Engine for Extracting Corporate Attributes <br> [2024. 1. ~ 2024. 1]
-  descr: "Development, Analysis of a Company Data Profiling Engine for Extracting Corporate Attributes<br> [Library: Tensorflow, Keras, PyTorch] <br><br>"
+  descr: "Development, Analysis of a Company Data Profiling Engine for Extracting Corporate Attributes<br> [Library: Tensorflow, Keras, PyTorch]"
 
 - content: Development of the KNOWHOW Mobile Application <br> [2024. 7. ~ 2025. 1]
   descr: "Development of a Mobile Web App Service for Startup CEOs to Enhance User Accessibility <br> [Language: Nest.js, Nuxt.js, React, Typescript] <br><br>"
@@ -19,10 +19,10 @@
   descr: "Design, Research, Development, and Deployment of AI Models for the EHP Service Platform(AI Models(Image Classification, NLG(NLP), ML, AI) <br> [Library: PyTorch]"
 
 - content: Project for Clinical and Genomic Data Analysis and Therapeutic Selection Classification <br> [2023. 7. ~ 2023. 12]
-  descr: "Development of Analysis and Therapeutic Selection Classification Models Using CDMS and K-Master Data <br> [Library: PyTorch] <br><br>"
+  descr: "Development of Analysis and Therapeutic Selection Classification Models Using CDMS and K-Master Data <br> [Library: PyTorch]"
 
 - content: Development of a Deep Learning Model for Food Image Recognition <br> [2021. 1. ~ 2023. 08]
-  descr: "Research and Development of Object Detection for Food Image Recognition and Similar Image Classification Models for Packaged Food Products <br> [Library: PyTorch] <br><br>"
+  descr: "Research and Development of Object Detection for Food Image Recognition and Similar Image Classification Models for Packaged Food Products <br> [Library: PyTorch]"
 
 - content: Development of HFD Nutrition Information Database <br> [2022. 1. ~ 2023. 12]
   descr: "Planning and Design of a Nutrition Information Database for Chronic Disease Patients <br> [Language: Python] <br><br>"
