@@ -1,5 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: PowerAuto Robotics 
+  link: https://www.pa-robotics.co.kr/
+  date: May 2025 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: AI Research Engineer
+  
 - name: Witi 
   link: https://knowhow.ceo/
   date: January 2024 - January 2025
