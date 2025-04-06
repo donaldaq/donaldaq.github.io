@@ -24,7 +24,7 @@ NLP 연구개발 공부하고 관심갖는 사람으로서 논문과 정리된 �
 **Paper: Preference Leakage - A Contamination Problem in LLM-as-a-Judge**라는 논문에서는 위와 같은 문제를 **Preference Leakage(선호도 유출)**로 정의하여 설명함 
 
 ### LLM-as-a-Judge란?
-<img width="729" alt="Image" src="https://github.com/user-attachments/assets/6fb88042-0fd4-4c76-9ab1-ffc36bad17c9" />
+![image](https://github.com/user-attachments/assets/6fb88042-0fd4-4c76-9ab1-ffc36bad17c9)
 
 - LLM-as-a-Judge는 생성된 데이터셋과 실제 데이터셋을 비교하여 평가하고, 이를 통해 모델의 응답 품질을 지속적으로 개선하는 평가방식을 뜻함
 - LLM-as-a-judge로 Chatbot Arena를 MT-bench 방식으로 LLM 평가함. 
