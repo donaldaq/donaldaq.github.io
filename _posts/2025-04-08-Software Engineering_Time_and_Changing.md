@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 소프트웨어 엔지니어링(시간과 변경)
+title: 소프트웨어 엔지니어링_시간과 변경
 excerpt: "Software Engineering?"
 categories: [Software Engineering]
 comments: true
 ---
+
 
 **AI Research Engineer이지만 소프트웨어 프로젝트에 있어 소프트웨어 엔지니어링 학문을 굉장히 중요하게 생각하고 팀 컬쳐, 팀 빌딩, 팀 관리에서 중요한 학문이라고 생각하여 제가 읽은 책을 정리하였습니다.** 
 
