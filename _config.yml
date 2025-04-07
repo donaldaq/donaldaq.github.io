@@ -7,7 +7,7 @@ title: Donaldaq's blog for ML
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll", "Machine Learning", "Deep Learning", "Image Classification", "Object Detection"]
+keywords: ["blog", "jekyll", "Machine Learning", "Deep Learning", "Image Classification", "Object Detection", "LLM", "Software Engineering"]
 
 #
 ###################################
@@ -37,7 +37,7 @@ kramdown:
 owner:
   name: Donaldaq
   avatar: leonids-logo.jpg
-  job: "Software Engineer"
+  job: "AI Research Engineer"
   bio: "Ignorance more frequently begets confidence that does knowledge."
   email: "donaldaq@gmail.com"
   disqus-shortname:
