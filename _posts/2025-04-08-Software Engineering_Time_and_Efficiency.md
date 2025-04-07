@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 소프트웨어 엔지니어링(시간과 변경)
-excerpt: "Software Engineering"
+excerpt: "Software Engineering?"
 categories: [Software Engineering]
 comments: true
 ---
@@ -22,7 +22,7 @@ comments: true
 
 **소프트웨어 엔지니어링 조직은 만들어낼 소프트웨어 자체뿐 아니라 제작하는 조직까지 양 측면 모두에서의 확장과 효율에 더 집중해야 합니다.** 
 
-> comments: 좋은 소프트웨어 개발을 위해서는 단순히 개발에서의 기술만 신경 쓸 것이 아니라 전반적인 조건들을 이해하고 집중해야한다고 생각합니다.
+>comments: 좋은 소프트웨어 개발을 위해서는 단순히 개발에서의 기술만 신경 쓸 것이 아니라 전반적인 조건들을 이해하고 집중해야한다고 생각합니다.
 
 구글에서는 소프트웨어 엔지니어링을 정의할 때 
 
