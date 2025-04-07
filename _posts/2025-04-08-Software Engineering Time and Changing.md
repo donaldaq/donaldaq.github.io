@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 소프트웨어 엔지니어링_시간과 변경
-excerpt: "Software Engineering?"
+excerpt: "Software Engineering"
 categories: [Software Engineering]
 comments: true
 ---
