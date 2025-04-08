@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Donaldaq's blog for ML
+title: donaldaq's blog for ML
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
