@@ -109,6 +109,6 @@ comments: true
 
 
 ### References:
-- 책: 구글 엔지니어는 이렇게 일한다. 
+- 책: 구글 엔지니어는 이렇게 일한다. [link](https://www.google.co.kr/books/edition/%EA%B5%AC%EA%B8%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94_%EC%9D%B4%EB%A0%87%EA%B2%8C_%EC%9D%BC%ED%95%9C/9KtuEAAAQBAJ?hl=ko&gbpv=0) 
 
 
