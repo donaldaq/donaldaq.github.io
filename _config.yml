@@ -4,7 +4,7 @@
 ####################################
 #
 title: donaldaq's blog for ML
-email:
+email: donaldaq@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll", "Machine Learning", "Deep Learning", "Image Classification", "Object Detection", "LLM", "NLP", "Software Engineering"]
